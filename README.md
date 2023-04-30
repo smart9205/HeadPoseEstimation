@@ -2,6 +2,7 @@
 
 In computer vision pose estimation specifically refers to the relative orientation of the object with respect to a camera. Pose estimation often referred to as a Perspective-n-Point problem or PNP problem in computer vision.
 
+![result](https://user-images.githubusercontent.com/114035408/235356169-2558ac5b-d088-4c29-8fa4-1b61d4e21a67.png)
 
 ## Installation
 
